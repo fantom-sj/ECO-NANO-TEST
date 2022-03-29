@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="/style_sm.css" type="text/css" media="screen">
+<body bgcolor=#f5f5f5>
+<div class="midtext" style="position:absolute; width:500px; text-align:center; top:50%; left:50%; margin-top:-120px; margin-left:-250px;">
+<img src="/images/sorry.jpg" border=0 width=150 height=150 vspace=8><br>
+
+К сожалению, страница с адресом<br> <font color=#00008f>https://www.elibrary.ru:443/download/elibrary_46483404_69044320.PDF</font>
+<br>отсутствует на сайте eLIBRARY.RU.<br>
+<br>Уточните ссылку или <br>перейдите на <a href="/defaultx.asp">главную страницу сайта</a>
+</div>
+</body>
+</html>
